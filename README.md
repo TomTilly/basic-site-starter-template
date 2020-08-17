@@ -1,6 +1,6 @@
 # Basic NPM scripts starter template
 
-Starter template for building simple static sites. Requires Node and NPM (or yarn).
+Starter template for building simple static sites with npm scripts. Requires Node and NPM (or yarn).
 
 Utilizes the following:
 <!-- - Autoprefixer -->
