@@ -2,6 +2,7 @@
 
 Starter template for building simple static sites. Requires Node and NPM (or yarn).
 
+Utilizes the following:
 <!-- - Autoprefixer -->
 - SCSS
 - ESLint
