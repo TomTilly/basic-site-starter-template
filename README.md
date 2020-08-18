@@ -2,12 +2,16 @@
 
 Starter template for building simple static sites with npm scripts. Requires Node and NPM (or yarn).
 
-Utilizes the following:
-<!-- - Autoprefixer -->
-- SCSS
-- ESLint
+Automatically...
+- Compresses images
+- Compiles sass
+- Compresses JS
+- Autoprefixes CSS
+- Sets up browser-sync for automatic reloading
 
-## Step 1) Install dependencies
+Note that this template uses bash commands.
+
+__1) Install dependencies__
 
 ```
 
@@ -15,7 +19,7 @@ npm i
 
 ```
 
-## Step 2) Start Server and start building
+__2) Start server and start building__
 
 ```
 
