@@ -14,6 +14,8 @@ Starter template I use for building simple static sites. Uses npm scripts to sta
 
 ✓ Includes Normalize CSS
 
+## Usage
+
 __1) Install dependencies__
 
 ```
