@@ -1,15 +1,12 @@
 # Basic NPM scripts starter template
 
-Starter template for building simple static sites with npm scripts. Requires Node and NPM (or yarn).
+Starter template I use for building simple static sites. Uses npm scripts to start watch files files and build. Requires Node and NPM (or yarn).
 
-Automatically...
-- Compresses images
-- Compiles sass
-- Compresses JS
-- Autoprefixes CSS
-- Sets up browser-sync for automatic reloading
-
-Note that this template uses bash commands.
+✓ Compresses images
+✓ Compiles sass
+✓ Compresses JS
+✓ Autoprefixes CSS
+✓ Live browser refreshing
 
 __1) Install dependencies__
 
