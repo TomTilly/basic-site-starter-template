@@ -1,0 +1,44 @@
+// 1. Config files and helpers
+
+@import 'abstracts/colors';
+@import 'abstracts/type';
+
+// 2. Vendor
+
+@import 'vendor/normalize';
+
+// 3. Base styles
+
+// 4. Layout
+
+// 5. Components
+
+
+/* Global Styles */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: $primary;
+  background: linear-gradient(to right, $secondary, $primary);
+}
+
+img {
+  object-fit: fill;
+}
+
+h1 {
+  color: pink;
+  background-color: yellow;
+}
