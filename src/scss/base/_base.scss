@@ -6,6 +6,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+  background: $primary;
+  background: linear-gradient(to right, $secondary, $primary);
+}
 
 img {
   max-width: 100%;
@@ -22,3 +27,4 @@ img {
   padding: 0;
   list-style: none;
 }
+
