@@ -1,6 +1,6 @@
 # Basic NPM scripts starter template
 
-Starter template I use for building simple static sites. Uses npm scripts to start watch files files and build. Requires Node and NPM (or yarn).
+Starter template I use for building simple static sites. Uses npm scripts to watch files and build. Requires Node and NPM (or yarn).
 
 ✓ Compresses images
 
@@ -16,7 +16,9 @@ Starter template I use for building simple static sites. Uses npm scripts to sta
 
 ## Usage
 
-__1) Install dependencies__
+__1) Clone this repo__
+
+__2) Install dependencies__
 
 ```
 
@@ -24,7 +26,7 @@ npm i
 
 ```
 
-__2) Start server and start building__
+__3) Start server and start building__
 
 ```
 
