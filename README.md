@@ -32,7 +32,7 @@ npm start
 
 ```
 
-Defaults to using a development build. When going into production, change `"build:css"` script from `"npm run dev:scss && npm run autoprefixer"` to `"npm run prod:scss && npm run autoprefixer"`.
+Defaults to using a development build. When going into production, change `"build:css"` value (in package.json) from `"npm run dev:scss && npm run autoprefixer"` to `"npm run prod:scss && npm run autoprefixer"`.
 
 ## Credits
 
